@@ -1,9 +1,5 @@
-# Astonaut-Emanuel
-Space Adventure
-Platform videogame using python and pygame library
-
 # Astronaut Emanuel
-### game with basic fundamentals for continuous development 
+### game with basic fundamentals for continuous development
 This is my first project using python and pygame.
 ## Gameplay
 The player's goal is to pick up randomly generated floppy discs floating in space as fast as possible while simultaneously dodging floating asteroids that are slowing the player down on impact.
